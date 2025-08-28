@@ -1,0 +1,6 @@
+{
+  "name": "Alien Survivor: React Edition",
+  "description": "A 3D first-person shooter survival game built with React and Three.js, where you fight off waves of alien drones. This version features dynamically generated boss encounters powered by the Gemini API for a unique experience every time.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
